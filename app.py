@@ -28,10 +28,10 @@ client1.on_message = on_message
 
 
 
-st.title("Interfaces Multimodales")
+st.title("Interfaz de voz")
 st.subheader("CONTROL POR VOZ")
 
-image = Image.open('voice_ctrl.jpg')
+image = Image.open('voz.png')
 
 st.image(image, width=200)
 
